@@ -4,7 +4,7 @@
 ; update to rocq 0.11 with dune 3.21
 (using coq 0.10)
 
-; (name clutch)
+(name clutch)
 
 (generate_opam_files true)
 
